@@ -8,12 +8,13 @@ http://localhost:8080/restaurants
 <H2>Quick start</H2>
 <ul>
 <li>
-<a href="https://github.com/Afowler2k/udacity-fullstack-project3-crudserver/archive/master.zip">Download the latest release</a>
+	
+<a href="https://github.com/Afowler2k/udacity-fullstack-project3-CRUD/archive/master.zip">Download the latest release</a>
 </li>
 <li>
 Clone the repo: 
 <code>
-git clone ttps://github.com/Afowler2k/udacity-fullstack-project3-crudserver
+git clone https://github.com/Afowler2k/udacity-fullstack-project3-CRUD.git
 </code>
 </li>
 </ul>
